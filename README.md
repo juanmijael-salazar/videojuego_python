@@ -37,14 +37,12 @@ sucediendo dichos eventos y también está una barra verde que representa la vid
 ![](https://github.com/juanmijael-salazar/videojuego_python/blob/main/screenshots/shooter3.png)
 ![](https://github.com/juanmijael-salazar/videojuego_python/blob/main/screenshots/shooter1.png)
 
-`
-Sprites: https://www.klipartz.com/es/sticker-png-fofyg
+`Sprites:`
+https://www.klipartz.com/es/sticker-png-fofyg
 https://www.gameart2d.com/freebies.html
-`
-`
-Efectos de sonido:
+
+`Efectos de sonido:`
 https://www.zapsplat.com/?s=explosion&post_type=music&sound-effect-category-id=
-`
 
 
 
