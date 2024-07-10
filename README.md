@@ -23,8 +23,8 @@ Adicionales visuales y/o audiovisuales
 * Sonidos (colisión, curación, disparo, música de fondo, estallido de meteoro)
 
 Acciones:
-• Mover nave: tecla de direccionales (izquierda, derecha, arriba, abajo) Perspectiva 2D centrado.
-• Disparar proyectil: tecla (espacio)
+* Mover nave: tecla de direccionales (izquierda, derecha, arriba, abajo) Perspectiva 2D centrado.
+* Disparar proyectil: tecla (espacio)
 
 El comportamiento de las esferas verdes es la misma que los meteoros pero su objetivo principal
 es que cuando la nave hace una colisión con esta esfera, la nave restaura su salud en 25 y si la
@@ -45,4 +45,7 @@ https://www.gameart2d.com/freebies.html
 Efectos de sonido:
 https://www.zapsplat.com/?s=explosion&post_type=music&sound-effect-category-id=
 `
+
+
+
 [Copyright](https://github.com/juanmijael-salazar/videojuego_python).
